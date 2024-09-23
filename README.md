@@ -17,5 +17,5 @@ Add multiple items to the card and validate the checkout journey.
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PARAS1271/Assignment-in-Selenium.git
+   git clone https://github.com/Paras4004/Assignment-in-Selenium.git
    cd Assignment-in-Selenium
